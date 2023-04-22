@@ -26,7 +26,7 @@ function App () {
       <main className='main' id={theme}>
         <h1 className='title'>Gatitos</h1>
         <div className='buttons'>
-          <button className='button buttonTheme' onClick={toggleTheme}>{theme === 'light' ? 'dark' : 'light'} mode</button>
+          <button className='button buttonTheme' onClick={toggleTheme}>{theme === 'light' ? 'Dark 🌔' : 'Light ☀️'}</button>
           <button className='button buttonFact' onClick={handleClick}>Get new FACT</button>
         </div>
         <div className="body">

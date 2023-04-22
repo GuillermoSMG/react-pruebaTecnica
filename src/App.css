@@ -65,3 +65,7 @@
     max-height: 400px;
     border-radius: 20px;
 }
+
+.buttonTheme {
+    font-size: 1.25em;
+}
